@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_track.xml"
+    }
+]

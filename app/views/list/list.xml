@@ -1,0 +1,17 @@
+<Page loaded="pageLoaded">
+    <Page.actionBar>
+        <ActionBar title="URL Shortener">
+            <ActionBar.actionItems>
+                <ActionItem text="Add" ios.position="right" tap="shorten" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <ListView id="urlList" items="{{ myUrls }}" itemTap="launch">
+        <ListView.itemTemplate>
+            <StackLayout>
+                <Label text="{{ shortUrl || 'Unknown Short URL' }}" cssClass="short" />
+                <Label text="{{ longUrl || 'Unknown Long URL' }}" cssClass="long" />
+            </StackLayout>
+        </ListView.itemTemplate>
+    </ListView>
+</Page>

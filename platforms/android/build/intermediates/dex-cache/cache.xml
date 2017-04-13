@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/URLShortener/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_cadce984919d36361ed0bd60dfd10c2525e4decf.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_03c1435159890b0216219e29541db77d1f03d05b.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_a0cce3233b823077a4b42023961d78db17c76a62.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_4906eeacc8ce64ffed95f1d92968984318f5434e.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_fe1114a42f3b30c1ca418aa0647e37e518a0e271.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-24.2.1_e6b45c89f9b9b27440989ccacd200a10b907e247.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_7628da19371af9b86ba17dfb6c02750df4f1e2fc.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_9f16f2c1040cb5a7c8684de8b87117c03e9bd266.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_a35e02d753c62e83f7a6675a5af715efb6f16c38.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-24.2.1_82fefa8c04772ece955ce94b95b74462f19aeb89.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_ef4e35f395b2bd659b5cdcf8b2be8b4a1c1e2f35.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_1d6e7fdd2de35d9f2290ea93e97034394314f0ec.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_6069b1e32b4034bcc0fa1790f16b3fbbe91f362c.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_f970b376dc324268b924983108e188d7aed50e48.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_9ac529576fbf6a6df060a0d071dff2c8425a6a72.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_085a383be4ef737c960939206889759d207abe03.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_17ddf3eb85b096657927777be598ea2562e5eb4a.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/URLShortener/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/URLShortener-runtime-unspecified_ad606e39da963c2343f17eaa840a8ce7e3550ddc.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_ad5a2fb6f5e6740420e6e7e1c0bb517ae755f994.jar" />
+    </item>
+    <item
+        jar="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_f48918758cdecce498cbb02c943b9c1f6d2191a1.jar" />
+    </item>
+
+</items>

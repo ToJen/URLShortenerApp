@@ -1,0 +1,11 @@
+StackLayout {
+    padding: 10;
+}
+
+.short {
+    font-weight: bold;
+    font-size: 16;
+}
+.long {
+    font-size: 14;
+}

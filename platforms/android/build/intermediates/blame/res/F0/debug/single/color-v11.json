@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/res/merged/F0/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tomisin/Documents/projects/Mobile Dev/NativeScript/URLShortener/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

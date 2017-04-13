@@ -1,0 +1,11 @@
+<Page loaded="pageLoaded">
+    <Page.actionBar>
+        <ActionBar title="Shrink URLs">
+            <NavigationButton text="Back" />
+        </ActionBar>
+    </Page.actionBar>
+    <StackLayout>
+        <TextField hint="http://" id="longUrl" />
+        <Button text="Shorten" tap="shorten" />
+    </StackLayout>
+</Page>
